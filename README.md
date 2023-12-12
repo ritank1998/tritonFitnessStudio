@@ -2,6 +2,7 @@
 
 # Copyright Notice for Website
 Copyright © 2023 Techorzo Mind
+"https://ritank1998.github.io/tritonFitnessStudio/"
 
 `The content, design, and code on this website are protected by copyright law. All rights reserved. Any unauthorized reproduction, copying, or cloning of this website or its content in whole or in part is strictly prohibited without prior written permission from Techorzo Mind`.
 
