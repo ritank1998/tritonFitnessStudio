@@ -11,13 +11,13 @@ import TrainerThreeBg from "../Image/trainerThree.jpg";
 const Trainers = () => (
   <section css={styles} className="trainers" id="trainers">
     <h2>
-      EXPERT <span>TRAINERS</span>
+      Our <span>Clients</span>
     </h2>
     <Icon />
     <p>
-      Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra{" "}
+    "Empowering clients with tailored fitness journeys.{" "}
       <br />
-      ipsum dolor, ultricies fermentum massa consequat eu.
+      Join our community for personalized workouts, expert guidance, and a supportive environment to achieve your fitness aspirations".
     </p>
     <Container>
       <TrainerCard

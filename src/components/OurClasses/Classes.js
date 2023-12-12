@@ -16,9 +16,9 @@ const Classes = ({ text }) => {
       </h2>
       <Icon />
       <p>
-        Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra
+      "Explore our diverse classes, redefine fitness. 
         <br />
-        ipsum dolor, ultricies fermentum massa consequat eu.
+        Join us for dynamic sessions tailored to your goals and lifestyle."
       </p>
       <Container>
         <LinksContainer setTraining={setTraining} training={training} />

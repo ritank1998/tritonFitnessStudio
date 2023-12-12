@@ -10,9 +10,8 @@ const Member = ({ text }) => (
       DON’T <span>THINK</span>, BEGIN <span>TODAY</span>!
     </h2>
     <p>
-      Ut consectetur, metus sit amet aliquet placerat, enim est ultricies
-      ligula, sit amet dapibus odio augue eget libero.
-      <br /> Morbi tempus mauris a nisi luctus imperdiet.
+    "Stop contemplating, start transforming today! Embrace a healthier you. Join our gym and begin your fitness journey now. 
+      <br /> Your goals await – take the first step towards a fitter tomorrow."
     </p>
     <Button text="BECOME A MEMBER" />
   </section>

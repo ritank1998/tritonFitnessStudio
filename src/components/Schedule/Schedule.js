@@ -18,9 +18,10 @@ const Schedule = () => {
       </h2>
       <Icon />
       <p>
-        Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra
+      "Optimize your fitness routine. Schedule our diverse gym classes for a balanced regimen tailored to your goals. 
+
         <br />
-        ipsum dolor, ultricies fermentum massa consequat eu.
+        Find your ideal sessions and commit to progress."
       </p>
       <Container>
         <ScheduleLinks setDay={setDay} day={day} />
