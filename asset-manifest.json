@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tritonFitnessStudio/static/css/main.e95449cc.css",
-    "main.js": "/tritonFitnessStudio/static/js/main.90c15f9f.js",
-    "static/media/bgVideo.mp4": "/tritonFitnessStudio/static/media/bgVideo.cea7f8397355ee27a3a5.mp4",
+    "main.js": "/tritonFitnessStudio/static/js/main.40818136.js",
+    "static/media/bgVideo.mp4": "/tritonFitnessStudio/static/media/bgVideo.ad087d8df6eeccd531cb.mp4",
     "static/media/classOne.jpg": "/tritonFitnessStudio/static/media/classOne.3a7813c16039e3c2ce55.jpg",
     "static/media/scheduleBg.jpg": "/tritonFitnessStudio/static/media/scheduleBg.1d93b94761464e4b3b00.jpg",
     "static/media/classThree.jpg": "/tritonFitnessStudio/static/media/classThree.b518bec82b51a8f3abe0.jpg",
@@ -15,10 +15,10 @@
     "static/media/trainerTwo.jpg": "/tritonFitnessStudio/static/media/trainerTwo.56b7321cba2f62b5b4fa.jpg",
     "index.html": "/tritonFitnessStudio/index.html",
     "main.e95449cc.css.map": "/tritonFitnessStudio/static/css/main.e95449cc.css.map",
-    "main.90c15f9f.js.map": "/tritonFitnessStudio/static/js/main.90c15f9f.js.map"
+    "main.40818136.js.map": "/tritonFitnessStudio/static/js/main.40818136.js.map"
   },
   "entrypoints": [
     "static/css/main.e95449cc.css",
-    "static/js/main.90c15f9f.js"
+    "static/js/main.40818136.js"
   ]
 }
