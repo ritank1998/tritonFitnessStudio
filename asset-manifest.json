@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tritonFitnessStudio/static/css/main.e95449cc.css",
-    "main.js": "/tritonFitnessStudio/static/js/main.d9d9798f.js",
-    "static/media/bgVideo.mp4": "/tritonFitnessStudio/static/media/bgVideo.ad087d8df6eeccd531cb.mp4",
-    "static/media/classOne.jpg": "/tritonFitnessStudio/static/media/classOne.3a7813c16039e3c2ce55.jpg",
-    "static/media/scheduleBg.jpg": "/tritonFitnessStudio/static/media/scheduleBg.1d93b94761464e4b3b00.jpg",
-    "static/media/classThree.jpg": "/tritonFitnessStudio/static/media/classThree.b518bec82b51a8f3abe0.jpg",
-    "static/media/classFour.jpg": "/tritonFitnessStudio/static/media/classFour.3556d209c7f1c5d6dd54.jpg",
-    "static/media/gymOverlayBg.jpg": "/tritonFitnessStudio/static/media/gymOverlayBg.00700598a0cfebe9fae1.jpg",
-    "static/media/classTwo.jpg": "/tritonFitnessStudio/static/media/classTwo.57ffa5d3a70509cab88a.jpg",
-    "static/media/contactBg.jpg": "/tritonFitnessStudio/static/media/contactBg.4b5f6691bad048d61058.jpg",
-    "static/media/trainerOne.jpg": "/tritonFitnessStudio/static/media/trainerOne.3bb5833f0f6173153938.jpg",
-    "static/media/trainerThree.jpg": "/tritonFitnessStudio/static/media/trainerThree.6b009294352554a3753f.jpg",
-    "static/media/trainerTwo.jpg": "/tritonFitnessStudio/static/media/trainerTwo.56b7321cba2f62b5b4fa.jpg",
-    "index.html": "/tritonFitnessStudio/index.html",
-    "main.e95449cc.css.map": "/tritonFitnessStudio/static/css/main.e95449cc.css.map",
-    "main.d9d9798f.js.map": "/tritonFitnessStudio/static/js/main.d9d9798f.js.map"
+    "main.css": "./static/css/main.e95449cc.css",
+    "main.js": "./static/js/main.dfa56347.js",
+    "static/media/bgVideo.mp4": "./static/media/bgVideo.ad087d8df6eeccd531cb.mp4",
+    "static/media/classOne.jpg": "./static/media/classOne.3a7813c16039e3c2ce55.jpg",
+    "static/media/scheduleBg.jpg": "./static/media/scheduleBg.1d93b94761464e4b3b00.jpg",
+    "static/media/classThree.jpg": "./static/media/classThree.b518bec82b51a8f3abe0.jpg",
+    "static/media/classFour.jpg": "./static/media/classFour.3556d209c7f1c5d6dd54.jpg",
+    "static/media/gymOverlayBg.jpg": "./static/media/gymOverlayBg.00700598a0cfebe9fae1.jpg",
+    "static/media/classTwo.jpg": "./static/media/classTwo.57ffa5d3a70509cab88a.jpg",
+    "static/media/contactBg.jpg": "./static/media/contactBg.4b5f6691bad048d61058.jpg",
+    "static/media/trainerOne.jpg": "./static/media/trainerOne.3bb5833f0f6173153938.jpg",
+    "static/media/trainerThree.jpg": "./static/media/trainerThree.6b009294352554a3753f.jpg",
+    "static/media/trainerTwo.jpg": "./static/media/trainerTwo.56b7321cba2f62b5b4fa.jpg",
+    "index.html": "./index.html",
+    "main.e95449cc.css.map": "./static/css/main.e95449cc.css.map",
+    "main.dfa56347.js.map": "./static/js/main.dfa56347.js.map"
   },
   "entrypoints": [
     "static/css/main.e95449cc.css",
-    "static/js/main.d9d9798f.js"
+    "static/js/main.dfa56347.js"
   ]
 }
