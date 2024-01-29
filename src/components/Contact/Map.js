@@ -6,8 +6,7 @@ const Map = () => (
   <div css={styles} className="mapouter">
     <iframe
       id="gmap_canvas"
-      src="https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sTriton+Fitness,+Bannerghatta+Road,+Bangalore!6i13!3m1!1sen!5m1!1sen"
-    ></iframe>
+      src="https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sTriton+Fitness,+Bannerghatta+Road,+Bangalore!6i13!3m1!1sen!5m1!1sen"></iframe>
   </div>
 );
 
