@@ -1,6 +1,6 @@
 {
   "name": "gym-website",
-  "homepage": "www.tritonfitness-studio.com",
+  "homepage": "https://tritonfitness-studio.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
