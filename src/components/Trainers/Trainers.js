@@ -4,9 +4,9 @@ import React from "react";
 import Icon from "../GlobalComponents/Icon";
 import TrainerCard from "./TrainerCard";
 import Container from "../GlobalComponents/Container";
-import TrainerOneBg from "../Image/trainerOne.jpg";
-import TrainerTwoBg from "../Image/trainerTwo.jpg";
-import TrainerThreeBg from "../Image/trainerThree.jpg";
+import Trainer1 from "../Image/Trainer1.jpeg"
+import Ladki1 from "../Image/Ladki1.jpeg";
+import Ladki2 from "../Image/Ladki2.jpeg";
 
 const Trainers = () => (
   <section css={styles} className="trainers" id="trainers">
@@ -22,21 +22,21 @@ const Trainers = () => (
     <Container>
       <TrainerCard
         title="Strength Trainer"
-        name="Bret D. Bowers"
-        desc="Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel."
-        img={TrainerOneBg}
+        name="Vishwa kumar c"
+        desc="Motivating coach, guides fitness journey, empowers, inspires progress, fosters discipline."
+        img={Trainer1}
       />
       <TrainerCard
-        title="Muscle Trainer"
-        name="Hector T. Daigl"
-        desc="Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel."
-        img={TrainerTwoBg}
+        title="Trainee"
+        name="Anishka"
+        desc="Transforming my body, gaining strength, achieving goals, fitness journey success."
+        img={Ladki1}
       />
       <TrainerCard
-        title="Power Trainer"
-        name="Paul D. Newman"
-        desc="Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel."
-        img={TrainerThreeBg}
+        title="Trainee"
+        name="Riya"
+        desc="Revitalized, stronger, healthier—grateful for my transformative fitness journey at the gym."
+        img={Ladki2}
       />
     </Container>
   </section>

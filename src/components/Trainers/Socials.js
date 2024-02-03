@@ -4,7 +4,7 @@ import React from "react";
 
 const Socials = () => (
   <div css={styles} className="socials">
-    <i className="fab fa-facebook-f"></i>
+    <i href="https://www.instagram.com/vishwaxkumarc?igsh=MXgxMDFpaXkxdmFuZA==" className="fab fa-instagram"></i>
     <i className="fab fa-twitter"></i>
     <i className="fab fa-linkedin-in"></i>
     <i className="fab fa-behance"></i>
