@@ -16,7 +16,7 @@ const Table = ({ day }) => {
           
           <td>
           </td>
-          <td>Name</td>
+          <td>Swati Soni</td>
         </tr>
         <tr>
           <td>Bharatnatyyam</td>
@@ -33,7 +33,7 @@ const Table = ({ day }) => {
               4.50 PM - 6.00 PM
             </span>
           </td>
-          <td>Boyd C. Harris</td>
+          <td>Nandini Ajiampur</td>
         </tr>
         <tr>
           <td>GX Classes </td>
@@ -47,7 +47,7 @@ const Table = ({ day }) => {
               7.30 PM - 8.30 PM
             </span>
           </td>
-          <td>Boyd C. Harris</td>
+          <td>Ujwal Amin</td>
         </tr>
         <tr>
           <td>Zumba </td>
@@ -61,7 +61,7 @@ const Table = ({ day }) => {
               7.00 PM to 8.00 PM
             </span>
           </td>
-          <td>Boyd C. Harris</td>
+          <td>Somya</td>
         </tr>
         {/* <tr>
           <td>Yoga Training Class </td>
