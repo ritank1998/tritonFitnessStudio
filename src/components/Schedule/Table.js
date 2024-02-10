@@ -7,35 +7,36 @@ const Table = ({ day }) => {
     <table css={styles}>
       <tbody>
         <tr>
-          <td>Fitness Class</td>
+          <td>Yoga Classes</td>
           <td>
             <span className={day === "Monday" ? "" : "hidden"}>
-              10:00AM - 11:30AM
+            <div>6.00 AM to 7.00 AM</div>
             </span>
           </td>
+          
           <td>
-            <span className={day === "Tuesday" ? "" : "hidden"}>
-              2:00PM - 3:30PM
-            </span>
           </td>
-          <td>William G. Stewart</td>
+          <td>Name</td>
         </tr>
         <tr>
-          <td>Muscle Training</td>
+          <td>Bharatnatyyam</td>
           <td>
             <span className={day === "Friday" ? "" : "hidden"}>
-              10:00AM - 11:30AM
+              4.50 PM - 6.00 PM
             </span>
           </td>
           <td>
             <span className={day === "Thursday" ? "" : "hidden"}>
-              2:00PM - 3:30PM
+              4.50 PM - 6.00 PM
+            </span>
+            <span className={day === "Friday" ? "" : "hidden"}>
+              4.50 PM - 6.00 PM
             </span>
           </td>
           <td>Boyd C. Harris</td>
         </tr>
         <tr>
-          <td>Body Building </td>
+          <td>GX Classes </td>
           <td>
             <span className={day === "Tuesday" ? "" : "hidden"}>
               10:00AM - 11:30AM
@@ -43,12 +44,26 @@ const Table = ({ day }) => {
           </td>
           <td>
             <span className={day === "Monday" ? "" : "hidden"}>
-              2:00PM - 3:30PM
+              7.30 PM - 8.30 PM
             </span>
           </td>
           <td>Boyd C. Harris</td>
         </tr>
         <tr>
+          <td>Zumba </td>
+          <td>
+            <span className={day === "Tuesday" ? "" : "hidden"}>
+              10:00AM - 11:30AM
+            </span>
+          </td>
+          <td>
+            <span className={day === "Monday" ? "" : "hidden"}>
+              7.00 PM to 8.00 PM
+            </span>
+          </td>
+          <td>Boyd C. Harris</td>
+        </tr>
+        {/* <tr>
           <td>Yoga Training Class </td>
           <td>
             <span className={day === "Wednesday" ? "" : "hidden"}>
@@ -75,7 +90,7 @@ const Table = ({ day }) => {
             </span>
           </td>
           <td>Bret D. Bowers</td>
-        </tr>
+        </tr> */}
       </tbody>
     </table>
   );

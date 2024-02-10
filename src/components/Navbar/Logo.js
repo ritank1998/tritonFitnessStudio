@@ -4,7 +4,7 @@ import React from "react";
 
 const Logo = () => (
   <h2 css={styles}>
-    TRITON FITNESS <span>STUDIO</span>
+    TRITON <span>STUDIO</span>
   </h2>
 );
 
